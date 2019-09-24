@@ -1,0 +1,50 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "food",
+      "display_name": "food",
+      "description": "edible, nourishing items"
+    },
+    {
+      "_id": 2,
+      "name": "decoration",
+      "display_name": "decoration",
+      "description": "things that enhance the atmosphere"
+    },
+    {
+      "name": "computers",
+      "display_name": "computers",
+      "description": "really useful machines"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": 1,
+      "name": "chocolate",
+      "display_name": "chocolate",
+      "description": "a wonderful treat"
+    },
+    {
+      "category": 2,
+      "name": "quartz",
+      "display_name": "quartz",
+      "description": "one of the most common crystals",
+      "_id": 2
+    },
+    {
+      "category": 2,
+      "name": "amethyst",
+      "display_name": "amethyst",
+      "description": "a purple crystal",
+      "_id": 3
+    },
+    {
+      "category": 1,
+      "name": "pizza",
+      "display_name": "pizza",
+      "description": "vegan version is good too"
+    }
+  ]
+}
