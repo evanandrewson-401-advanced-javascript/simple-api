@@ -11,6 +11,11 @@
       "name": "decoration",
       "display_name": "decoration",
       "description": "things that enhance the atmosphere"
+    },
+    {
+      "name": "computers",
+      "display_name": "computers",
+      "description": "really useful machines"
     }
   ],
   "products": [
@@ -34,6 +39,12 @@
       "display_name": "amethyst",
       "description": "a purple crystal",
       "_id": 3
+    },
+    {
+      "category": 1,
+      "name": "pizza",
+      "display_name": "pizza",
+      "description": "vegan version is good too"
     }
   ]
 }
