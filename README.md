@@ -5,7 +5,7 @@
 ### Author: Evan Andrewson
 
 ### Links and Resources
-* [submission PR](https://github.com/evanandrewson-401-advanced-javascript/lab-03/pull/2)
+* [submission PR](https://github.com/evanandrewson-401-advanced-javascript/simple-api/pull/1)
 * [swagger docs](https://app.swaggerhub.com/apis/EvanAndrewson1/simple-api/0.1#trial)
 
 #### Running the app
